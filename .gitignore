@@ -13,6 +13,7 @@ __pycache__/
 .venv/
 venv/
 env/
+backend/package/
 
 # Backend local memory storage
 memory/*.json
