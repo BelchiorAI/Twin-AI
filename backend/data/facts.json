@@ -1,0 +1,21 @@
+{
+  "full_name": "Belchior Pedro Pascoal`",
+  "name": "Pedro",
+  "current_role": "AI Engineer",
+  "location": "Capetown, South Africa",
+  "email": "[EMAIL_ADDRESS]",
+  "linkedin": "linkedin.com/in/yourprofile",
+  "specialties": [
+    "Full Stack Developer",
+    "AI Engineer",
+    "Machine Learning Engineer"
+  ],
+  "years_experience": 10,
+  "education": [
+    {
+      "degree": "Computer Engineering",
+      "institution": "Cape Peninsula University of technology",
+      "year": "2023"
+    }
+  ]
+}

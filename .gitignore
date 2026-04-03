@@ -1,0 +1,25 @@
+# Environment Variables
+.env
+.env.*
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+
+# Python / FastAPI
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Backend local memory storage
+memory/*.json
+
+# Lambda deployment artifacts
+lambda-deployment.zip
+lambda-package/
+
+# OS specific
+.DS_Store
